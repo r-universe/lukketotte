@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MultSurvTests"]
-	path = MultSurvTests
-	url = https://github.com/lukketotte/multsurvtests
-	shallow = true
-	registered = true
