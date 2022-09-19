@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "MultSurvTests",
+    "oncran": true
+  }
+]
